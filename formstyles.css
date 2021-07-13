@@ -1,0 +1,39 @@
+
+		body{
+			background-color: #1a0033 ;
+			font-family: 'Lora', serif;
+			overflow-x: hidden;
+		}
+		
+		input[type=text]{
+			width: 50%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			box-sizing: border-box;
+			border: 3px solid #e6b3ff;
+			-webkit-transition: 0.5s;
+			transition: 0.5s;
+			outline: none;
+			font-size: 20px;
+			font-family: 'Lora', serif;
+		}
+
+		input[type=text]:focus{
+			border: 3px solid #cc00cc;
+			font-family: 'Lora', serif;
+
+		}
+
+		input[type=submit]{
+			 background-color:#e600e6 ;
+  			 border: none;
+  			 color: white;
+  			 padding: 16px 32px;
+  			 text-decoration: none;
+  			 margin: 4px 2px;
+  		     cursor: pointer;
+  		     font-size: 20px;
+  		     font-family: 'Lora', serif;
+
+		}
+	
