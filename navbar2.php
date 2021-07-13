@@ -65,7 +65,7 @@
 <body>
 <ul>
 	<li><a class="main" href="index.php">Bank of Sparks</a></li>
-	<li><a class="nav" href="#maketransactions">Make Transactions</a></li>
+	<li><a class="nav" href="maketransactions.php">Make Transactions</a></li>
 	<li><a class="nav" href="transactions.php">View Transactions</a></li>
 	<li><a class="nav" href="customers.php">View Customers</a></li>
 </ul>
