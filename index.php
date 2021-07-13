@@ -51,7 +51,7 @@ include "navbar.php";
 		<br>
 		<br>
 	<button><a href="transactions.php">View transactions</a></button>&ensp;&ensp;&ensp;
-	<button><a href="#">Make Transactions</a></button>&ensp;&ensp;&ensp;
+	<button><a href="maketransactions.php">Make Transactions</a></button>&ensp;&ensp;&ensp;
 	<button><a href="customers.php">View Customers</a></button>
 	</center>
 	</div>
